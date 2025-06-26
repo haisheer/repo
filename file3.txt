@@ -1,1 +1,3 @@
 file3
+
+mmake file3
